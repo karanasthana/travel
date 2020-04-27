@@ -13,7 +13,6 @@ import Karan6 from '../Assets/karan6.jpg';
 export default class SimpleSlider extends React.Component {
   render() {
     var settings = {
-      dots: true,
       infinite: true,
       speed: 5,
       slidesToShow: 1,
@@ -28,7 +27,8 @@ export default class SimpleSlider extends React.Component {
     const imgHeight = {
         maxHeight: '400px',
         width: '80vw',
-        padding: '0 10vw'
+        padding: '0 10vw',
+        backgroundColor: '#222831',
     };
     return (
       <Slider {...settings}>
