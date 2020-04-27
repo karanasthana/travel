@@ -3,12 +3,12 @@ import Slider from "react-slick";
 // Import css files
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import Karan1 from '../Assets/karan-1.jpg';
-import Karan2 from '../Assets/karan-2.jpg';
-import Karan3 from '../Assets/karan-3.jpg';
-import Karan4 from '../Assets/karan-4.jpg';
-import Karan5 from '../Assets/karan-5.jpg';
-import Karan6 from '../Assets/karan-6.jpg';
+import Karan1 from '../Assets/karan1.jpg';
+import Karan2 from '../Assets/karan2.jpg';
+import Karan3 from '../Assets/karan3.jpg';
+import Karan4 from '../Assets/karan4.jpg';
+import Karan5 from '../Assets/karan5.jpg';
+import Karan6 from '../Assets/karan6.jpg';
 
 export default class SimpleSlider extends React.Component {
   render() {
@@ -32,7 +32,7 @@ export default class SimpleSlider extends React.Component {
     };
     return (
       <Slider {...settings}>
-        <div style={{textAlign: 'center'}}>
+        <div style={{ backgroundColor: 'pink'}}>
             <img src={Karan1} alt={'Karan-1'} className="img-responsive" style={Object.assign(imgResponsive, imgHeight)} height='400 !important' />
         </div>
         <div>
