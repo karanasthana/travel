@@ -1,19 +1,20 @@
 import React from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import Slider from './Views/Slider';
 import Quote from './Views/Quote';
 // Import css files
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import FullImage from './Views/FullImage';
+// import FullImage from './Views/FullImage';
 
 function App() {
   return (
     <div>
       <Slider />
       <Quote />
-      <FullImage />
+      {/* <FullImage /> */}
+      
       {/* <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
