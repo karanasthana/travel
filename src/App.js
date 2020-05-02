@@ -7,14 +7,18 @@ import Quote from './Views/Quote';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 // import FullImage from './Views/FullImage';
+// import India from './Views/India';
+import CountriesSection from './Views/CountriesSection';
 
 function App() {
   return (
     <div>
       <Slider />
       <Quote />
+      <CountriesSection />
       {/* <FullImage /> */}
-      
+      {/* <India /> */}
+
       {/* <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
