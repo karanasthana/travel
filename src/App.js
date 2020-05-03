@@ -9,13 +9,17 @@ import "slick-carousel/slick/slick-theme.css";
 // import FullImage from './Views/FullImage';
 // import India from './Views/India';
 import CountriesSection from './Views/CountriesSection';
+import India from './staticData/countryData/India.json';
+import Singapore from './staticData/countryData/Singapore.json';
 
 function App() {
   return (
     <div>
+      <CountriesSection json={India} />
+      <Quote quote={'Live with no excuses and travel with no regrets'}/>
+      <CountriesSection json={Singapore} />
+      <Quote quote={'The World is a book and those who do not travel read only a page'}/>
       <Slider />
-      <Quote />
-      <CountriesSection />
       {/* <FullImage /> */}
       {/* <India /> */}
 
