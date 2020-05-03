@@ -28,7 +28,7 @@ export default class SimpleSlider extends React.Component {
         maxHeight: '400px',
         width: '80vw',
         padding: '0 10vw',
-        backgroundColor: '#222831',
+        backgroundColor: '#fff',
     };
     return (
       <Slider {...settings}>
