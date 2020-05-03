@@ -1,25 +1,19 @@
 import React from 'react';
 // import logo from './logo.svg';
 import './App.css';
-import Slider from './Views/Slider';
-import Quote from './Views/Quote';
 // Import css files
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 // import FullImage from './Views/FullImage';
 // import India from './Views/India';
-import CountriesSection from './Views/CountriesSection';
-import India from './staticData/countryData/India.json';
-import Singapore from './staticData/countryData/Singapore.json';
+import HomePage from './pages/HomePage';
+import StatesPage from './pages/StatesPage';
+import Himachal from './staticData/statesData/Himachal.json';
 
 function App() {
   return (
     <div>
-      <CountriesSection json={India} />
-      <Quote quote={'Live with no excuses and travel with no regrets'}/>
-      <CountriesSection json={Singapore} />
-      <Quote quote={'The World is a book and those who do not travel read only a page'}/>
-      <Slider />
+      <StatesPage json={Himachal} />
       {/* <FullImage /> */}
       {/* <India /> */}
 
