@@ -6,6 +6,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 // import FullImage from './Views/FullImage';
 // import India from './Views/India';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import HomePage from './pages/HomePage';
 import StatesPage from './pages/StatesPage';
 import Himachal from './staticData/statesData/Himachal.json';
