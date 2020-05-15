@@ -1,5 +1,6 @@
 import React from 'react';
 import './../css/CountriesSection.css';
+import { Link } from 'react-router-dom';
 
 export default class CountriesSection extends React.Component {
     // constructor(props) {
@@ -8,14 +9,14 @@ export default class CountriesSection extends React.Component {
 
     render() {
       const items = this.props.json.places.map((item, key) =>
-      <section class="card-sm" style={{backgroundImage: `url(${item.picture})`}}>
+      <Link to="/states" class="card-sm" style={{backgroundImage: `url(${item.picture})`}}>
         {
           item.place ? 
           <p class="card__text-sm">{`${item.place}`}</p> : 
           null
         }
         <h1 class="card__text-lg">{`${item.name}`}</h1>
-      </section>
+      </Link>
       );
         return (
             <div class="main main-div" style={{backgroundImage: `url(${this.props.json.picture})` }}>
