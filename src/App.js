@@ -14,6 +14,7 @@ import Himachal from './staticData/statesData/Himachal.json';
 function App() {
   return (
     <div>
+      <HomePage />
       <StatesPage json={Himachal} />
       {/* <FullImage /> */}
       {/* <India /> */}
