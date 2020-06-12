@@ -3,7 +3,6 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
 // import logo from './logo.svg';
 import './App.css';
@@ -15,7 +14,6 @@ import "slick-carousel/slick/slick-theme.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import HomePage from './pages/HomePage';
 import StatesPage from './pages/StatesPage';
-import Himachal from './staticData/statesData/Himachal.json';
 
 function App() {
   return (
