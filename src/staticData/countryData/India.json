@@ -5,10 +5,12 @@
     "picture": "https://lh3.googleusercontent.com/y9itdZ7K3A0Qo8-hovLMMjLDWD6UUzfiY0VN7b0ZWpTtrThO5-m3ynmxmpQlg12-xBdkoa-jK2I5wioYVw-hs7WN5e3mvC73AO26MEXcgQ4vA9Fc9zXm6OE2oQA8_2kYBXBP26sbWfCNIbVuK9GCo6MUwIOtwCb3Az-Bnh86JXFzZUvVB59U5_uA9OrPOX0S0LWLG8FG595AyUeKn3t8Yi1ChyfHEefXkz0ZhPOfcUE7nfvGJbhUeOMhV7PJXTLR0yT-6QIRqRp8QoCPF9YGE3v8-jz1lHwCAuQQlke4JXUiIUaW7BYRQjFRb8ItXO05JMpQ0eVt3pNlt8MESqK2DhqVX15AXCrP1HF2HLkCeFKEuBFEtA0OHoKSnmgclak557sbGP7VS96_1MfG5nzQ8sH1aAf3OlkFqEWBIBTTiy9W6u50lg3qzHcEgipiWzDmg5CtmolruiBAIdCPKZI2BrrK8BbX2G8gqv4CL1_G1GNPdKoT-IzMgSpNkMTOd1CkWl8cfkbwFOoI-xMPQudIuO65dw5MwFSIqFxY-yeNoG1qQAwvTiubMv3KW7iUYd_2YZvDJBUO9Ok3g7kAWFlDmSWPWJZa7rUlq8db5wahsZe_0L1Fd_L0XpRdMS4NQIV_OcixQkIBhn5fZeBbV72GJekxzoyREL5MG-fcvKutIBJPeY7wdBi7SMi8sFwmDg=w800-h440-no",
     "places": [{
         "name": "Himachal",
+        "id": "himachal",
         "place": "Manali",
         "picture":"https://lh3.googleusercontent.com/sjieUo4c3A8KR7NbBQzCiO3On6EjETng8xRJJ8SG_9ZWY8aYaTSzdeugdbdYkIkSg9slyg6agqw4UMO8JiwkhQCo7BKnsupG6uMff9tkrPDRT2wOLTuFN0w1LU8ndObq1Iu0-fC8S0KGcgtP5sf67MUnWjFC9FnAsg4vQvx3T-5QYpAFOiSiWrZWhAxKAe-wlnSHu6N5RfgRoxlCnZVP_Pj-N0RFCt8GgRPt8rhjHs1kwwRO1R1hcMYTAGU18vUJxRBI6Cm8FJy0fWpUqz2b-opouHE55H4qFcuzh2fiakLqnnklVx3L1Um-U5LiWgwLG6_IJ3OTuI3ULZwoSRk81sb1Z9lDpCg14z7PWYujfDBTqoewmTLDA_90XPUFhECqU8mzKC6gRvSWVA8MKwhZ4RL9irHtWAGol8NA7yLsEJ9BujlShYJt8prVo34y8Jp8e6GwhTI3NsdeggUAAYZraN1bPgymDCVa8-IyqQkmd53kCGggtglUjDemgSF0lzDyIn2owH5aEoJqNpqZleZ47g4GFppkBWN9N0og7JJfF7OQ72k8KOMwAY-KNlFdpQLc9wVwvjtgk3PF0epn3Qu5hsOsoPDsPZHh_XIm7SwwfzovHQjvEVDOwAJZ3A_PvaJeoBr-tUYCIyA_C2GZkh0swa2_zWp5xnW492XQ0LtOQl16HPnCy3Bfy_vd8ZtD_To=w469-h586-no"
-    }, {
+        }, {
         "name": "Uttarakhand",
+        "id": "uttarakhand",
         "place": "Nag Tibba",
         "picture":"https://lh3.googleusercontent.com/x5l3rQDdYY-wSyhn51Hol-oIDYHneXbQFChq2udpGolczGY7rbDaikV-gfnlt7ZadMF3ehnmOSVHwVm0GKZSV-4Z88gYFpAIsAsKxVn8RNiBmfWE0cQ4eLWoOC3NJZRsBjPV8AzDzfazYU5K7dNtnvOC_nDM0tVw31gH8qSJfnShq3R9WvMAVRI4PoaF1FYYp7zoBPPgqowR4razONbFNFqxMOpOXYWU5_T8s7w_uYU79iBKUi6Wbqp54qlNtWn6aW5a0v_NIiYRHHHuGAclVYXLupfTt_GtjaStB6936ZvcCayq3kZX0VvdPyoilbE928vNKZ3GUvYRCq96OI85iql0n4KnSdpEfvOmn2WVtCgGY-ajIntPN9XvbaTNpxlnbJPNy5Xuwx0JfmLOJMB3LfwbmK6V49uBrBmhir2mlk4pL1QYQeDs9nM7j2iJFHaNf0m98TWHtlDpKfeSdLciX4DN2YPHqIbCMQ3NnAO3wFrh-NecgdpHDZf3slLqgkVn6ClPE5LtO7EC923rFUT5TcliL5Z_tYjblu14atidQyMuim8lwe5gqZSUY_1eVKpXhLscILkIoSS2pELujqNI6rdK61hjCOqxTJ-ii9rzR9fDl-i0rUUWoWcwfWS6fvSHRTLZG33DlNlLchg7FKP2ZN9GTDHRXUZbG_MwLOy32BzBMKIsYxnjhmiybUgHTg=w202-h268-no"
     }, {

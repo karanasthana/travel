@@ -4,13 +4,15 @@ import StatePicture from '../Views/StatePicture';
 import StatePlace from '../Views/StatePlace';
 
 export default function StatesPage(props) {
-    const places = props.json.places.map((item, key) => 
+    console.log("The page is --> " + props.location.id);
+    let json = require(`../staticData/statesData/${props.location.name}.json`)
+    const places = json.places.map((item, key) => 
         <StatePlace picture={`${item.picture}`} place={`${item.place}`} key={key} />
     );
     return (
         <div>
-            <StatePicture image={props.json.picture} stateName={props.json.name} />
-            <Quote quote={props.json.text}/>
+            <StatePicture image={json.picture} stateName={json.name} />
+            <Quote quote={json.text}/>
             <div>
                 {places}
             </div>

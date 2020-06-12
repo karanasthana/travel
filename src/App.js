@@ -21,7 +21,7 @@ function App() {
   return (
     <Router>
       <div>
-        <nav>
+        {/* <nav>
           <ul>
             <li>
               <Link to="/">Home</Link>
@@ -32,13 +32,11 @@ function App() {
           </ul>
         </nav>
         <div>
-        </div>
+        </div> */}
           {/* A <Switch> looks through its children <Route>s and
               renders the first one that matches the current URL. */}
         <Switch>
-          <Route path={"/states"}>
-            <StatesPage json={Himachal} />
-          </Route>
+          <Route path={"/states/:id"} name="State" component={StatesPage} />
           <Route path="/">
             <HomePage />
           </Route>
