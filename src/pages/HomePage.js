@@ -3,7 +3,7 @@ import CountriesSection from "../Views/CountriesSection";
 import India from '../staticData/countryData/India.json';
 import Singapore from '../staticData/countryData/Singapore.json';
 import Quote from '../Views/Quote';
-import Slider from '../Views/Slider';
+// import Slider from '../Views/Slider';
 
 export default function HomePage() {
     return (
@@ -12,7 +12,7 @@ export default function HomePage() {
             <Quote quote={'Live with no excuses and travel with no regrets'}/>
             <CountriesSection json={Singapore} />
             <Quote quote={'The World is a book and those who do not travel read only a page'}/>
-            <Slider />      
+            {/* <Slider />     */}
         </div>
     )
 }
