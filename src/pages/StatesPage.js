@@ -5,7 +5,7 @@ import StatePlace from '../Views/StatePlace';
 
 export default function StatesPage(props) {
     console.log("The page is --> " + props.location.id);
-    let json = require(`../staticData/statesData/${props.location.name}.json`)
+    let json = require(`../staticData/statesData/${props.match.params.id.substr(1)}.json`)
     const places = json.places.map((item, key) => 
         <StatePlace picture={`${item.picture}`} place={`${item.place}`} key={key} />
     );
