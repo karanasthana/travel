@@ -2,7 +2,7 @@
     "countryName": "India",
     "countryId": "india", 
     "countryText": "The land of Landscapes",
-    "picture": "https://lh3.googleusercontent.com/y9itdZ7K3A0Qo8-hovLMMjLDWD6UUzfiY0VN7b0ZWpTtrThO5-m3ynmxmpQlg12-xBdkoa-jK2I5wioYVw-hs7WN5e3mvC73AO26MEXcgQ4vA9Fc9zXm6OE2oQA8_2kYBXBP26sbWfCNIbVuK9GCo6MUwIOtwCb3Az-Bnh86JXFzZUvVB59U5_uA9OrPOX0S0LWLG8FG595AyUeKn3t8Yi1ChyfHEefXkz0ZhPOfcUE7nfvGJbhUeOMhV7PJXTLR0yT-6QIRqRp8QoCPF9YGE3v8-jz1lHwCAuQQlke4JXUiIUaW7BYRQjFRb8ItXO05JMpQ0eVt3pNlt8MESqK2DhqVX15AXCrP1HF2HLkCeFKEuBFEtA0OHoKSnmgclak557sbGP7VS96_1MfG5nzQ8sH1aAf3OlkFqEWBIBTTiy9W6u50lg3qzHcEgipiWzDmg5CtmolruiBAIdCPKZI2BrrK8BbX2G8gqv4CL1_G1GNPdKoT-IzMgSpNkMTOd1CkWl8cfkbwFOoI-xMPQudIuO65dw5MwFSIqFxY-yeNoG1qQAwvTiubMv3KW7iUYd_2YZvDJBUO9Ok3g7kAWFlDmSWPWJZa7rUlq8db5wahsZe_0L1Fd_L0XpRdMS4NQIV_OcixQkIBhn5fZeBbV72GJekxzoyREL5MG-fcvKutIBJPeY7wdBi7SMi8sFwmDg=w800-h440-no",
+    "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/countries/india-background.jpg",
     "places": [{
         "name": "Himachal",
         "id": "himachal",
