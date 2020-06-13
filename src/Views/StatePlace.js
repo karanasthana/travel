@@ -4,7 +4,7 @@ import './../css/StatePlace.css';
 
 export default function StatePlace(props) {
     return (
-        <Card className="col-md-4 col-sm-6 col-xs-12 cardContainer" >
+        <Card className="col-md-3 col-sm-6 col-xs-12 cardContainer" >
             <div className="cardOuterDiv">
                 <Card.Img variant="top" src={`${props.picture}`} className="cardImg" />
                 <Card.Body className="cardBody">
