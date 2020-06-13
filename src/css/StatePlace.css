@@ -13,7 +13,7 @@
     border: 1px solid rgba(0,0,0,.125);
     border-radius: 5px;
     padding: 1px;
-    background-color: #178be7;
+    /* background-color: #178be7; */
 }
 
 .cardContainer .cardOuterDiv .cardImg {
@@ -26,8 +26,8 @@
     text-align: center;
     padding: 0.7rem;
     margin-top: 10px;
-    border-top: 1px solid #BBB;
-    background-color: white;
+    /* border-top: 1px solid #BBB; */
+    /* background-color: white; */
 }
 
 .cardContainer .cardOuterDiv:hover {
@@ -39,7 +39,7 @@
 
 .cardContainer .cardOuterDiv:hover .cardBody {
     color: white;
-    background-color: rgb(41, 40, 54);
+    /* background-color: rgb(41, 40, 54); */
 }
 
 .cardContainer .cardOuterDiv:hover .cardImg {

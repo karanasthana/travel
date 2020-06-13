@@ -10,7 +10,7 @@ export default function StatesPage(props) {
         <StatePlace picture={`${item.picture}`} place={`${item.place}`} key={key} />
     );
     return (
-        <div>
+        <div style={{backgroundColor: 'black'}}>
             <StatePicture image={json.picture} stateName={json.name} />
             <Quote quote={json.text}/>
             <div>
