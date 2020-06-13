@@ -1,7 +1,7 @@
 import React from 'react';
 import CountriesSection from "../Views/CountriesSection";
-import India from '../staticData/countryData/India.json';
-import Singapore from '../staticData/countryData/Singapore.json';
+import India from '../staticData/countryData/india.json';
+import Singapore from '../staticData/countryData/singapore.json';
 import Quote from '../Views/Quote';
 import Slider from '../Views/Slider';
 
