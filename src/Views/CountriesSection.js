@@ -9,7 +9,7 @@ export default class CountriesSection extends React.Component {
 
     render() {
       const items = this.props.json.places.map((item, key) =>
-      <Link to={{pathname: `/states/:${item.id}`, id:`${item.id}`, name: `${item.name}` }} id={item.id} className="card-sm" style={{backgroundImage: `url(${item.picture})`}}>
+      <Link to={{pathname: `/travel/states/:${item.id}`, id:`${item.id}`, name: `${item.name}` }} id={item.id} className="card-sm" style={{backgroundImage: `url(${item.picture})`}}>
         {
           item.place ? 
           <p className="card__text-sm">{`${item.place}`}</p> : 
