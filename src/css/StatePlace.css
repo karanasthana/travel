@@ -52,4 +52,5 @@
 .cardContainer .cardOuterDiv .cardBody .cardTitle {
     font-size: 2rem;
     cursor: pointer;
+    color: 'yellow';
 }
