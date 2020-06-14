@@ -36,9 +36,7 @@ function App() {
               renders the first one that matches the current URL. */}
         <Switch>
           <Route path={"/states/:id"} name="State" component={StatesPage} />
-          <Route path="/">
-            <HomePage />
-          </Route>
+          <Route path="/" name="Home" component={HomePage} />
         </Switch>
       </div>
     </Router>
