@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de3ff12f492f3f1d4dc662a687347878",
+    "revision": "380c035fbd7aa0bbda839e9b77b58af9",
     "url": "/travel/index.html"
   },
   {
-    "revision": "2ad242d3fc1f43fc9e1e",
+    "revision": "26467aca24edd95d5bd2",
     "url": "/travel/static/css/2.2939d266.chunk.css"
   },
   {
-    "revision": "3a93e983707cc4dbe1cc",
+    "revision": "51694145e995f4e54e0e",
     "url": "/travel/static/css/main.84efd4e6.chunk.css"
   },
   {
-    "revision": "2ad242d3fc1f43fc9e1e",
-    "url": "/travel/static/js/2.25bc5086.chunk.js"
+    "revision": "26467aca24edd95d5bd2",
+    "url": "/travel/static/js/2.32c85097.chunk.js"
   },
   {
-    "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/travel/static/js/2.25bc5086.chunk.js.LICENSE.txt"
+    "revision": "117d65892edc8adcd29d4a0d57b5a80a",
+    "url": "/travel/static/js/2.32c85097.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a93e983707cc4dbe1cc",
-    "url": "/travel/static/js/main.113ff3a3.chunk.js"
+    "revision": "51694145e995f4e54e0e",
+    "url": "/travel/static/js/main.8e705516.chunk.js"
   },
   {
     "revision": "71c3b1b36b1931ef2bbd",
