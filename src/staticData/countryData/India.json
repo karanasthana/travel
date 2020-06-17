@@ -33,5 +33,9 @@
         "name": "Punjab",
         "place": "Amritsar",
         "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/punjab-card.JPG"
+    }, {
+        "name": "Madhya Pradesh",
+        "place": "Jabalpur",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/jabalpur.jpg"
     }]
 }
