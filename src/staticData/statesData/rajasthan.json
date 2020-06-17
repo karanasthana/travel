@@ -1,0 +1,15 @@
+{
+    "name": "RAJASTHAN",
+    "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/rajasthan-background.JPG",
+    "countryId": "india",
+    "text": "The Desert Place",
+    "id": "rajasthan",
+    "fileName": "Rajasthan",
+    "places": [{
+            "place": "Jaipur",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/jaipur.jpeg"
+        }, {
+            "place": "Udaipur",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/Udaipur.jpeg"
+        }]
+}
