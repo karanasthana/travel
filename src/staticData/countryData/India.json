@@ -8,17 +8,19 @@
         "id": "himachal",
         "place": "Manali",
         "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/himachal-card.jpg"
-        }, {
+    }, {
         "name": "Uttarakhand",
         "id": "uttarakhand",
         "place": "Nag Tibba",
         "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/uttarakhand-card.jpg"
     }, {
         "name": "Rajasthan",
+        "id": "rajasthan",
         "place": "Udaipur",
         "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan-card.JPG"
     }, {
         "name": "Goa",
+        "id": "goa",
         "place": "Candolim",
         "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/goa-card.JPG"
     }, {
@@ -31,6 +33,7 @@
         "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/up-card.JPG"
     }, {
         "name": "Punjab",
+        "id": "punjab",
         "place": "Amritsar",
         "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/punjab-card.JPG"
     }, {

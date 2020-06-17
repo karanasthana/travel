@@ -8,6 +8,7 @@ import Quote from '../Views/Quote';
 export default function HomePage() {
     return (
         <div>
+            <Quote quote={'Climb the Mountain so YOU can see the WORLD, not so the WORLD can see YOU'}/>
             <CountriesSection json={India} />
             <Quote quote={'Live with no excuses and travel with no regrets'}/>
             <CountriesSection json={Singapore} />
