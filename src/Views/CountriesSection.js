@@ -31,8 +31,8 @@ export default class CountriesSection extends React.Component {
         return (
             <div className="main main-div" style={{backgroundImage: `url(${this.props.json.picture})` }}>
               <section className="card-lg__container">
-                <p className="card__text-sm">{`${this.props.json.countryName}`}</p>
-                <h1 className="card__text-lg">{`${this.props.json.countryText}`}</h1>
+                <p className="card__text-sm">{`${this.props.json.countryText}`}</p>
+                <h1 className="card__text-lg">{`${this.props.json.countryName}`}</h1>
               {/* <p className="card__text-md">something something</p> */}
               </section>
               <section className="card-sm__container">
