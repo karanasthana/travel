@@ -29,24 +29,17 @@
     /* background-color: white; */
 }
 
-.cardContainer .cardOuterDiv:hover {
-    transition: all .5s ease 0s;
-    -webkit-transition: all .5s ease 0;
-    margin: -8px 8px 0;
-    box-shadow: 0 8px 20px 0 rgba(0,0,0,.2);
-}
-
 .cardContainer .cardOuterDiv:hover .cardBody {
     color: white;
-    /* background-color: rgb(41, 40, 54); */
 }
 
 .cardContainer .cardOuterDiv:hover .cardImg {
+    margin-bottom: 20px;
+}
+.cardContainer .cardOuterDiv:hover .cardImg {
+    outline: -webkit-focus-ring-color auto 1px;
     transition: all .5s ease 0s;
     -webkit-transition: all .5s ease 0;
-    margin: -8px 8px 0;
-    max-width: 17rem;
-    max-height: 17rem;
 }
 
 .cardContainer .cardOuterDiv .cardBody .cardTitle {

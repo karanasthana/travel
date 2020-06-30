@@ -17,6 +17,8 @@
   padding: 0 0 32px;
   display: flex;
   overflow-x: scroll;
+  background-position-x: center;
+  background-position-y: center;
 }
 /*CARD*/
 .card__btn {
@@ -51,6 +53,7 @@
 }
 .card__text-lg {
   color: yellow;
+  background-blend-mode: darken;
   font-family: 'quicksand', sans-serif;
   font-size: 0.75rem;
   font-weight: 300;
@@ -58,6 +61,8 @@
   line-height: 1.2;
   width: 100%;
   margin: 0;
+  max-width: 60vw;
+  min-width: 30vw;
 }
 /*...large...*/
 .card-lg__container {

@@ -29,6 +29,7 @@
         "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/delhi-card.jpg"
     }, {
         "name": "UP",
+        "id": "up",
         "place": "Bareilly",
         "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/up-card.JPG"
     }, {
