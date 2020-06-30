@@ -9,12 +9,13 @@ import Quote from '../Views/Quote';
 export default function HomePage() {
     return (
         <div>
-            <CountriesSection json={India} />
             <Quote quote={'Live with no excuses and travel with no regrets'}/>
-            <CountriesSection json={Singapore} />
+            <CountriesSection json={India} />
             <Quote quote={'The World is a book and those who do not travel read only a page'}/>
-            <CountriesSection json={USA} />
+            <CountriesSection json={Singapore} />
             <Quote quote={'Climb the Mountain so YOU can see the WORLD, not so the WORLD can see YOU'}/>
+            <CountriesSection json={USA} />
+            <Quote quote={'To awaken quite alone in a strange town is one of the most pleasant sensations in the world'}/>
             {/* <Slider />     */}
         </div>
     )
