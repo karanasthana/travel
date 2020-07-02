@@ -34,9 +34,6 @@
 }
 
 .cardContainer .cardOuterDiv:hover .cardImg {
-    margin-bottom: 20px;
-}
-.cardContainer .cardOuterDiv:hover .cardImg {
     outline: -webkit-focus-ring-color auto 1px;
     transition: all .5s ease 0s;
     -webkit-transition: all .5s ease 0;
