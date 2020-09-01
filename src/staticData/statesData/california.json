@@ -1,0 +1,21 @@
+{
+    "name": "CALIFORNIA",
+    "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/rajasthan-background.JPG",
+    "countryId": "usa",
+    "text": "Ski or Surf, in a day",
+    "id": "california",
+    "fileName": "California",
+    "places": [{
+            "place": "San Francisco",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/jaipur.jpeg"
+        }, {
+            "place": "San Diego",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/Udaipur.jpeg"
+        }, {
+            "place": "Los Angeles",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/Udaipur.jpeg"
+        }, {
+            "place": "San Diego",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/Udaipur.jpeg"
+        }]
+}
