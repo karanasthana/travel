@@ -21,9 +21,6 @@ export default function StatesPage(props) {
         <div style={{backgroundColor: 'black'}}>
             <StatePicture image={json.picture} stateName={json.name} />
             <Quote quote={json.text}/>
-            {/* <div>
-                {places}
-            </div> */}
             <Masonry
                 breakpointCols={breakpointColumnsObj}
                 className="my-masonry-grid"
