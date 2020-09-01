@@ -1,21 +1,24 @@
 {
     "name": "CALIFORNIA",
-    "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/rajasthan-background.JPG",
+    "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/california/california.jpg",
     "countryId": "usa",
-    "text": "Ski or Surf, in a day",
+    "text": "Ski & Surf, both today",
     "id": "california",
     "fileName": "California",
     "places": [{
             "place": "San Francisco",
-            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/jaipur.jpeg"
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/california/san_francisco.jpg"
         }, {
             "place": "San Diego",
-            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/Udaipur.jpeg"
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/california/san_diego.jpg"
         }, {
             "place": "Los Angeles",
-            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/Udaipur.jpeg"
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/california/los_angeles.jpg"
         }, {
-            "place": "San Diego",
-            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/Udaipur.jpeg"
+            "place": "Long beach",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/california/long_beach.jpg"
+        }, {
+            "place": "Yosemite",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/california/yosemite.jpg"
         }]
 }
