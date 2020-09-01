@@ -110,13 +110,14 @@
   width: 110px;
   height: calc(100% - 64px); 
   margin: 0 8px;
-  padding: 24px 32px 24px 16px;
+  padding: 24px 32px 24px 4px;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
   cursor: pointer;
   transition: 0.3s ease;
-  
+  flex-wrap: wrap;
+  overflow-x: hidden;
 }
 .card-sm:hover {
   margin: -8px 8px 0;

@@ -16,7 +16,26 @@
     margin-bottom: 30px;
   }
 
+.cardContainer:hover {
+    border: 1px solid white;
+}
+
+.cardContainer:hover .cardBody {
+    background-color: black;
+    color: white;
+}
+
+.cardContainer:hover .cardBody .cardTitle {
+    font-weight: bold;
+}
 
 .cardBody {
     background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardBody .cardTitle {
+    font-family: fantasy;
 }
