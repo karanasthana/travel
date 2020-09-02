@@ -39,6 +39,7 @@
 
 .cardBody .cardTitle {
   font-family: fantasy;
+  margin-bottom: 0;
 }
 
 .modal {
