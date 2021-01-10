@@ -63,6 +63,7 @@
   margin: 0;
   max-width: 60vw;
   min-width: 30vw;
+  overflow-wrap: break-word;
 }
 /*...large...*/
 .card-lg__container {
