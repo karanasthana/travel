@@ -20,5 +20,8 @@
         }, {
             "place": "Udaipur",
             "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/Udaipur.jpeg"
+        }, {
+            "place": "Thar Desert",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/states/rajasthan/Thar.jpg"
         }]
 }
