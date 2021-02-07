@@ -19,7 +19,7 @@ export default class CountriesSection extends React.Component {
         }
         <h1 className="card__text-lg">{`${item.name}`}</h1>
       </div> :
-      <Link to={{pathname: `/states/:${item.id}`, id:`${item.id}`, name: `${item.name}` }} id={item.id} className="card-sm" style={{backgroundImage: `url(${item.picture})`}}>
+      <Link to={{pathname: `/travel/#states/:${item.id}`, id:`${item.id}`, name: `${item.name}` }} id={item.id} className="card-sm" style={{backgroundImage: `url(${item.picture})`}}>
         {
           item.place ? 
           <div style={{display: 'flex'}}>
