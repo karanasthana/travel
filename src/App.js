@@ -1,6 +1,7 @@
 import React from 'react';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
+  // BrowserRouter as Router,
   Switch,
   Route,
 } from "react-router-dom";
@@ -18,7 +19,7 @@ import StatesPage from './pages/StatesPage';
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
       <div>
         {/* <nav>
           <ul>
@@ -35,7 +36,7 @@ function App() {
           {/* A <Switch> looks through its children <Route>s and
               renders the first one that matches the current URL. */}
         <Switch>
-          <Route path={"/travel/#states/:id"} name="State" component={StatesPage} />
+          <Route path={"/states/:id"} name="State" component={StatesPage} />
           <Route path="/">
             <HomePage />
           </Route>
