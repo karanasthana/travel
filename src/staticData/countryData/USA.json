@@ -34,6 +34,11 @@
         "place": "Raleigh",
         "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/north-carolina.jpg"
     }, {
+        "name": "South Carolina",
+        "place": "Greenville",
+        "id": "south_carolina",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/south_carolina/SouthCarolina.jpg"
+    }, {
         "name": "Florida",
         "place": "Naples",
         "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/florida.jpeg"
