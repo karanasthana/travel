@@ -19,5 +19,20 @@
         }, {
             "place": "Clearwater",
             "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/florida/Clearwater.jpeg"
+        }, {
+            "place": "Sarasota",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/florida/Clearwater.jpeg"
+        }, {
+            "place": "Miami",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/florida/Miami.jpeg"
+        }, {
+            "place": "Key West",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/florida/KeyWest.jpeg"
+        }, {
+            "place": "Daytona",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/florida/Daytona.jpeg"
+        }, {
+            "place": "West Palm Beach",
+            "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/florida/Clearwater.jpeg"
         }]
 }
