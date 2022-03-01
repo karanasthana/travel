@@ -1,42 +1,57 @@
 .my-masonry-grid {
-    display: -webkit-box; /* Not needed if autoprefixing */
-    display: -ms-flexbox; /* Not needed if autoprefixing */
-    display: flex;
-    margin-left: -30px; /* gutter size offset */
-    width: auto;
-    padding: 4px;
-  }
-  .my-masonry-grid_column {
-    padding-left: 30px; /* gutter size */
-    background-clip: padding-box;
-  }
+  display: -webkit-box; /* Not needed if autoprefixing */
+  display: -ms-flexbox; /* Not needed if autoprefixing */
+  display: flex;
+  margin-left: -30px; /* gutter size offset */
+  width: auto;
+  padding: 4px;
+}
+.my-masonry-grid_column {
+  padding-left: 30px; /* gutter size */
+  background-clip: padding-box;
+}
    
-  /* Style your items */
-  .my-masonry-grid_column > div { /* change div to reference your elements you put in <Masonry> */
-    background: grey;
-    margin-bottom: 30px;
-  }
+/* Style your items */
+.my-masonry-grid_column > div { /* change div to reference your elements you put in <Masonry> */
+  background: grey;
+  margin-bottom: 30px;
+}
 
 .cardContainer:hover {
-    border: 1px solid white;
+  border: 1px solid white;
 }
 
 .cardContainer:hover .cardBody {
-    background-color: black;
-    color: white;
+  background-color: black;
+  color: white;
 }
 
 .cardContainer:hover .cardBody .cardTitle {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .cardBody {
-    background-color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .cardBody .cardTitle {
-    font-family: fantasy;
+  font-family: fantasy;
+  margin-bottom: 0;
+}
+
+.modal {
+  background: #00000055;
+}
+
+.place-dialog {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.place-dialog .modal-content {
+  border-radius: 1rem;
 }

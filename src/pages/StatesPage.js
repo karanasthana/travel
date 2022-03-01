@@ -4,12 +4,13 @@ import StatePicture from '../Views/StatePicture';
 import StatePlace from '../Views/StatePlace';
 import Masonry from 'react-masonry-css';
 import '../css/StatePlace.css';
+import * as _ from 'lodash';
 
 export default function StatesPage(props) {
     console.log("The page is --> " + props.location.id);
     let json = require(`../staticData/statesData/${props.match.params.id.substr(1)}.json`)
     const places = json.places.map((item, key) => 
-        <StatePlace picture={`${item.picture}`} place={`${item.place}`} key={key} />
+        <StatePlace picture={`${item.picture}`} place={`${item.place}`} key={key} hasDetails={!_.isEmpty(item.details)} details={`${JSON.stringify(item.details)}`} />
     );
     const breakpointColumnsObj = {
         default: 4,
