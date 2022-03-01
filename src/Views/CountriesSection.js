@@ -4,22 +4,19 @@ import { Link } from 'react-router-dom';
 import * as _ from 'lodash';
 
 export default class CountriesSection extends React.Component {
-    // constructor(props) {
-    //     super(props);
-    // }
 
     render() {
       const items = this.props.json.places.map((item, key) =>
-      _.isEmpty(item.id) ? 
-      <div className="card-sm" style={{backgroundImage: `url(${item.picture})`}}>
-        {
-          item.place ? 
-          <p className="card__text-sm">{`${item.place}`}</p> : 
-          null
-        }
-        <h1 className="card__text-lg">{`${item.name}`}</h1>
-      </div> :
-      <Link to={{pathname: `/states/:${item.id}`, id:`${item.id}`, name: `${item.name}` }} id={item.id} className="card-sm" style={{backgroundImage: `url(${item.picture})`}}>
+        _.isEmpty(item.id) ? 
+        <div className="card-sm" style={{backgroundImage: `url(${item.picture})`}}>
+          {
+            item.place ? 
+            <p className="card__text-sm">{`${item.place}`}</p> : 
+            null
+          }
+          <h1 className="card__text-lg">{`${item.name}`}</h1>
+        </div> :
+        <Link to={{pathname: `/states/:${item.id}`, id:`${item.id}`, name: `${item.name}` }} id={item.id} className="card-sm" style={{backgroundImage: `url(${item.picture})`}}>
         {
           item.place ? 
           <div style={{display: 'flex'}}>
