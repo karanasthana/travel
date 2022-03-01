@@ -4,14 +4,30 @@
     "countryText": "",
     "picture": "https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/countries/usa-background.jpg",
     "places": [{
-        "name": "Alaska",
-        "place": "Denali",
-        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/alaska.jpg"
-    }, {
         "name": "California",
         "place": "San Francisco",
         "id": "california",
         "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/california.jpg"
+    }, {
+        "name": "New York",
+        "place": "New York",
+        "id": "new_york",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/new-york.jpg"
+    }, {
+        "name": "North Carolina",
+        "place": "Raleigh",
+        "id": "north_carolina",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/north-carolina.jpg"
+    }, {
+        "name": "South Carolina",
+        "place": "Greenville",
+        "id": "south_carolina",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/south_carolina/SouthCarolina.jpg"
+    }, {
+        "name": "Florida",
+        "place": "Daytona",
+        "id": "florida",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/florida.jpeg"
     }, {
         "name": "Arizona",
         "place": "Grand Canyon",
@@ -25,18 +41,9 @@
         "place": "Chicago",
         "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/illinois.jpg"
     }, {
-        "name": "New York",
-        "place": "New York",
-        "id": "new_york",
-        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/new-york.jpg"
-    }, {
-        "name": "North Carolina",
-        "place": "Raleigh",
-        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/north-carolina.jpg"
-    }, {
-        "name": "Florida",
-        "place": "Naples",
-        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/florida.jpeg"
+        "name": "Alaska",
+        "place": "Denali",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/alaska.jpg"
     }, {
         "name": "Georgia",
         "place": "Atlanta",
