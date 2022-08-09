@@ -9,6 +9,16 @@
         "id": "florida",
         "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/florida.jpeg"
     }, {
+        "name": "Washington",
+        "place": "Seattle",
+        "id": "washington",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/washington.jpg"
+    }, {
+        "name": "Oregon",
+        "place": "Portland",
+        "id": "oregon",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/washington.jpg"
+    }, {
         "name": "South Carolina",
         "place": "Greenville",
         "id": "south_carolina",
@@ -18,11 +28,6 @@
         "place": "Raleigh",
         "id": "north_carolina",
         "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/north-carolina.jpg"
-    }, {
-        "name": "Washington",
-        "place": "Seattle",
-        "id": "washington",
-        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/washington.jpg"
     }, {
         "name": "Georgia",
         "place": "Atlanta",
@@ -53,6 +58,10 @@
     }, {
         "name": "Texas",
         "place": "San Antonio",
+        "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/texas.jpg"
+    }, {
+        "name": "Idaho",
+        "place": "Boise",
         "picture":"https://travel-photos-react-website.s3.ap-south-1.amazonaws.com/usa/states/texas.jpg"
     }]
 }
