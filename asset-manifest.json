@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/travel/static/css/main.4b11362d.chunk.css",
-    "main.js": "/travel/static/js/main.903fdb1f.chunk.js",
-    "main.js.map": "/travel/static/js/main.903fdb1f.chunk.js.map",
-    "runtime-main.js": "/travel/static/js/runtime-main.16f54be6.js",
-    "runtime-main.js.map": "/travel/static/js/runtime-main.16f54be6.js.map",
-    "static/css/2.e4f94ba5.chunk.css": "/travel/static/css/2.e4f94ba5.chunk.css",
-    "static/js/2.563c5fbf.chunk.js": "/travel/static/js/2.563c5fbf.chunk.js",
-    "static/js/2.563c5fbf.chunk.js.map": "/travel/static/js/2.563c5fbf.chunk.js.map",
+    "main.css": "/travel/static/css/main.cdbfc2a1.chunk.css",
+    "main.js": "/travel/static/js/main.5502b107.chunk.js",
+    "main.js.map": "/travel/static/js/main.5502b107.chunk.js.map",
+    "runtime-main.js": "/travel/static/js/runtime-main.1f0f9e70.js",
+    "runtime-main.js.map": "/travel/static/js/runtime-main.1f0f9e70.js.map",
+    "static/css/2.d7f7ff00.chunk.css": "/travel/static/css/2.d7f7ff00.chunk.css",
+    "static/js/2.bec32c70.chunk.js": "/travel/static/js/2.bec32c70.chunk.js",
+    "static/js/2.bec32c70.chunk.js.map": "/travel/static/js/2.bec32c70.chunk.js.map",
     "index.html": "/travel/index.html",
-    "precache-manifest.f1a85d1323589a69ba4bea9bdbfa631a.js": "/travel/precache-manifest.f1a85d1323589a69ba4bea9bdbfa631a.js",
+    "precache-manifest.bd600c848f6efc5fc9c4a2dae25eeaba.js": "/travel/precache-manifest.bd600c848f6efc5fc9c4a2dae25eeaba.js",
     "service-worker.js": "/travel/service-worker.js",
-    "static/css/2.e4f94ba5.chunk.css.map": "/travel/static/css/2.e4f94ba5.chunk.css.map",
-    "static/css/main.4b11362d.chunk.css.map": "/travel/static/css/main.4b11362d.chunk.css.map",
-    "static/js/2.563c5fbf.chunk.js.LICENSE.txt": "/travel/static/js/2.563c5fbf.chunk.js.LICENSE.txt",
+    "static/css/2.d7f7ff00.chunk.css.map": "/travel/static/css/2.d7f7ff00.chunk.css.map",
+    "static/css/main.cdbfc2a1.chunk.css.map": "/travel/static/css/main.cdbfc2a1.chunk.css.map",
+    "static/js/2.bec32c70.chunk.js.LICENSE.txt": "/travel/static/js/2.bec32c70.chunk.js.LICENSE.txt",
     "static/media/slick-theme.css": "/travel/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.16f54be6.js",
-    "static/css/2.e4f94ba5.chunk.css",
-    "static/js/2.563c5fbf.chunk.js",
-    "static/css/main.4b11362d.chunk.css",
-    "static/js/main.903fdb1f.chunk.js"
+    "static/js/runtime-main.1f0f9e70.js",
+    "static/css/2.d7f7ff00.chunk.css",
+    "static/js/2.bec32c70.chunk.js",
+    "static/css/main.cdbfc2a1.chunk.css",
+    "static/js/main.5502b107.chunk.js"
   ]
 }
